@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a758e68a258ee3749962eb04c724f8ae
+timeCreated: 1529766549
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97990
+  packageName: QR Code Reader and Creator
+  packageVersion: 1.9
+  assetPath: Assets/Plugins/Android/AndroidManifest.xml
+  uploadId: 309528
